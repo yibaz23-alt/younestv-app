@@ -1,0 +1,22 @@
+app/
+├── data/
+│   ├── api/
+│   │   ├── ApiService.kt
+│   │   └── RetrofitInstance.kt
+│   ├── model/
+│   │   ├── Fixture.kt
+│   │   └── League.kt
+│   └── repository/
+│       └── FootballRepository.kt
+│
+├── ui/
+│   ├── screens/
+│   │   ├── HomeScreen.kt
+│   │   ├── FixturesScreen.kt
+│   │   └── StandingsScreen.kt
+│   └── theme/
+│
+├── viewmodel/
+│   └── FootballViewModel.kt
+│
+└── MainActivity.kt
